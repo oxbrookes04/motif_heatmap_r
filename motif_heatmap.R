@@ -1,4 +1,3 @@
-# Load required libraries
 library(memes)
 library(BSgenome.Hsapiens.UCSC.hg19)
 library(GenomicRanges)
